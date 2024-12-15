@@ -1,0 +1,5 @@
+todoList/
+├── src/
+│   ├── script.js
+│   └── style.css
+└── index.html
